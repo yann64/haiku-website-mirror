@@ -15,6 +15,4 @@ Change the value for MIRROR_TITLE, MIRROR_BASEURL, MIRROR_LOCALPATH variables.
 
 ## Runnning the script
 
-'''
-sh ./createmirror.sh
-'''
+run ./createmirror.sh
